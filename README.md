@@ -1,6 +1,6 @@
 ### Hi all 👋
 
-I'm Olga and currently I'm Java Developer.
+I'm Olga and I'm Java Developer.
 I'm interested in backend development technologies, algorithms and datastructures.
 
 
